@@ -1,1 +1,2 @@
-# note_pad_clone
+# Notepad-clone
+This is a notepad clone developed with java swing framework
